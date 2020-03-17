@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Library
+comment1.params=iid\ ssign\ db\ books\ sscores
+comment1.target=Library(int,\ int,\ int,\ int[],\ int[])
+comment2.params=
+comment2.target=java.util.List\ max_throughput()
+comment3.params=restricted
+comment3.target=java.util.List\ restricted_throughput(java.util.List)
+comment4.params=
+comment4.target=void\ start_signup()
+comment5.params=
+comment5.target=boolean\ signup_ready()
+comment6.params=
+comment6.target=void\ pass_day_signup()
+comment7.params=lib
+comment7.target=int\ compareTo(java.lang.Object)
+numComments=8
